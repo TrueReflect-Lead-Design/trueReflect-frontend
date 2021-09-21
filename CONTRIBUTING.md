@@ -1,4 +1,4 @@
-# Contributing to the Reflect ecosystem 🥞
+# Contributing to the Reflect ecosystem �
 
 Thanks for taking the time to contribute !
 You can start by reading our [Contribution guidelines](https://docs.pancakeswap.finance/code/contributing) first.
